@@ -27,4 +27,16 @@ markdown# Hi there, I'm [Your Name] 👋
 * **Email:** [your.email@example.com](mailto:your.email@example.com)
 * **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com)
 * **Website:** [Your Portfolio Site](https://yourwebsite.com)
-* 
+
+
+markdown### 🚀 Project 1: E-Commerce API
+- **Tech:** Node.js, Express
+- **Description:** A scalable backend API built for high-traffic stores.
+
+```text
+======================================================================
+```
+
+### 💻 Project 2: Weather Dashboard
+- **Tech:** React, OpenWeather API
+- **Description:** A minimalist weather tracking web app.
