@@ -9,17 +9,23 @@ As well as a number of programing languages such as: C++ C#  and Python.
 
 ```
 Transcript.Log
->>> ```Uni Project ```
-- Made with unreal c++
-- group project with 8 people
+ 'Uni Project' 'Unreal Engine' 'C++' 'Group Project'
+
+description:
+
+gif:
 ```
 
+```
 Unity 3D movement Demo
 - Work in progress 
 - solo personal project
 - made with unity C# 
+```
 
+```
 DirectX 3D graphics scene
 - Cmp301 Uni Project
+```
 
 # Contact Me
