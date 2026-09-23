@@ -1,5 +1,3 @@
-# PortFolio
-
 # About Me
 
 I am a gameplay proggramer and a fourth year student at Abertay university.
@@ -9,11 +7,17 @@ As well as a number of programing languages such as: C++ C#  and Python.
 
 # Projects
 
+```
 Transcript.Log
-- Des315 Uni Project 
+ ```Uni Project ```
+- Made with unreal c++
+- group project with 8 people
+```
 
 Unity 3D movement Demo
-- Work in progress personal project
+- Work in progress 
+- solo personal project
+- made with unity C# 
 
 DirectX 3D graphics scene
 - Cmp301 Uni Project
