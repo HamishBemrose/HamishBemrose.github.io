@@ -21,14 +21,15 @@ gif:
 ```
 
 <html>
-<head>
-```
- <title> Unity 3D movement Demo </title>
-- Work in progress 
-- solo personal project
-- made with unity C# 
-```
-</head>
+    <head>
+    ```
+        <title> Unity 3D movement Demo </title>
+    - Work in progress 
+    - solo personal project
+    - made with unity C# 
+    ```
+    </head>
+</html>
 
 ```
 OpenGL DirectX 3D graphics scene
