@@ -10,7 +10,7 @@ As well as a number of programing languages such as: C++ C#  and Python.
 # Projects
 
 
-<block>
+
 ```
 Transcript.Log
  <br>Uni Project<br> 'Unreal Engine' 'C++' 'Group Project'
