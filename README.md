@@ -1,24 +1,26 @@
-
-
-## About Me
+# About Me
 
 I am a gameplay proggramer and a fourth year student at Abertay university.
 Throghout my time in University.
 I have worked with a number of game engines such as: Unreal engine and Unity.
 As well as a number of programing languages such as: C++ C#  and Python. 
 
+# Projects
+
+```
+## Transcript.Log
+
+
+**Tech:** Made with Unreal Engine using C++ <br>
+---
+**Description:**  Transcript.Log is an 3D escape room puzzle game with text adventures elements. I was one of two programmer from a team of eight. the idea of the game is to send write messages to a young girl to help her escape a lab. my main focus was making the AI of the young girl.  giving her a mood system and making it so she can interact with objects in the enviroment. <br>
 ---
 
-## Projects
-
-
-# Transcript.Log
-
-Uni Project, 'Group Project' <br>
-**Tech:** Made with Unreal Engine using C++ <br>
-**Description:**  Transcript.Log is an 3D escape room puzzle game with text adventures elements. <br> I was one programmer from a team of eight. the idea of the game is to send write messages to a<br>young girl to help her escapea lab. my main focus was making the AI of the young girl. <br> giving her a mood system and making it so she can  interact with objects in the enviroment.
-
 gif:
+
+[Play On itch.io](https://worm-gear-games.itch.io/transcript-log)
+
+```
 
 
 ```
