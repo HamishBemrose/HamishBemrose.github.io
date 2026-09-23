@@ -1,9 +1,11 @@
-# Hamish Bemrose-Brown
+# PortFolio
 
 ###Education
+
 Abertay fourth year student.
 
-###Projects
+###Projects.
+
 Transcript.Log
 - Des315 Uni Project 
 
