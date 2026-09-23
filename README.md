@@ -11,14 +11,14 @@ As well as a number of programing languages such as: C++ C#  and Python.
 
 
 
-```
+`
 Transcript.Log
- <br>Uni Project<br> 'Unreal Engine' 'C++' 'Group Project'
+ ``Uni Project`` 'Unreal Engine' 'C++' 'Group Project'
 
 description:
 
 gif:
-```
+`
 
 ```
 Unity 3D movement Demo
@@ -28,7 +28,7 @@ Unity 3D movement Demo
 ```
 
 ```
-DirectX 3D graphics scene
+OpenGL DirectX 3D graphics scene
 - Cmp301 Uni Project
 ```
 
