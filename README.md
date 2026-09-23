@@ -7,7 +7,7 @@ As well as a number of programing languages such as: C++ C#  and Python.
 
 # Projects
 
-```
+
 ## Transcript.Log
 
 
@@ -20,7 +20,7 @@ gif:
 
 [Play On itch.io](https://worm-gear-games.itch.io/transcript-log)
 
-```
+
 
 
 ```
