@@ -15,7 +15,7 @@ As well as a number of programing languages such as: C++ C#  and Python.
 Transcript.Log
 Uni Project, 'Group Project'
 **Tech:** Made with Unreal Engine using C++
-**Description:** <p> Transcript.Log is an 3D escape room puzzle game with text adventures elements. I was one programmer from a team of eight. the idea of the game is to send write messages to a young girl to help her escapea lab. myt main focus was making the AI of the young girl, so that she can complete actions and interact with objects in the enviroment. </p>
+**Description:**  Transcript.Log is an 3D escape room puzzle game with text adventures elements. <br> I was one programmer from a team of eight. the idea of the game is to send write messages to a young girl to help her escapea lab. myt main focus was making the AI of the young girl, so that she can complete actions and interact with objects in the enviroment. 
 
 gif:
 
