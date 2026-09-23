@@ -1,31 +1,83 @@
-# About Me
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=640">
 
-I am a gameplay proggramer and a fourth year student at Abertay university.
-Throghout my time in University.
-I have worked with a number of game engines such as: Unreal engine and Unity.
-As well as a number of programing languages such as: C++ C#  and Python. 
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}" media="screen">
+    <link rel="stylesheet" href="{{ '/assets/css/mobile.css' | relative_url }}" media="only screen and (max-width:640px)">
+    <link rel="stylesheet" href="{{ '/assets/css/non-screen.css' | relative_url }}" media="only screen and (max-width:640px)">
 
-# Projects
+    <script src="{{ '/assets/js/modernizr.js' | relative_url }}"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+    <script src="{{ '/assets/js/headsmart.min.js' | relative_url }}"></script>
+    <script>
+      $(document).ready(function () {
+        $('#main_content').headsmart()
+      })
+    </script>
 
-```
-Transcript.Log
- 'Uni Project' 'Unreal Engine' 'C++' 'Group Project'
+{% seo %}
 
-description:
+{% include head-custom.html %}
+  </head>
 
-gif:
-```
+  <body>
+    <a id="forkme_banner" href="{{ site.github.repository_url }}">View on GitHub</a>
+    <div class="shell">
 
-```
-Unity 3D movement Demo
-- Work in progress 
-- solo personal project
-- made with unity C# 
-```
+      <header>
+        <div class="ribbon-outer">
+          <div class="ribbon-inner">
+            <h1>{{ site.title | default: site.github.repository_name }}</h1>
+            <h2>{{ site.description | default: site.github.project_tagline }}</h2>
+          </div>
+          <span class="left-tail"></span>
+          <span class="right-tail"></span>
+        </div>
+      </header>
 
-```
-DirectX 3D graphics scene
-- Cmp301 Uni Project
-```
+      {% if site.show_downloads %}
+        <section id="downloads">
+          <span class="inner">
+            <a href="{{ site.github.zip_url }}" class="zip"><em>download</em> .ZIP</a><a href="{{ site.github.tar_url }}" class="tgz"><em>download</em> .TGZ</a>
+          </span>
+        </section>
+      {% else %}
+        <div id="no-downloads">
+          <span class="inner">
+          </span>
+        </div>
+      {% endif %}
 
-# Contact Me
+
+      <span class="banner-fix"></span>
+
+
+      <section id="main_content">
+        {{ content }}
+      </section>
+
+      <footer>
+        <span class="ribbon-outer">
+          <span class="ribbon-inner">
+            {% if site.github.is_project_page %}
+              <p>this project by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a> can be found on <a href="{{ site.github.repository_url }}">GitHub</a></p>
+            {% endif %}
+            {% if site.github.is_user_page %}
+              <p>Projects by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a> can be found on <a href="{{ site.github.repository_url }}">GitHub</a></p>
+            {% endif %}
+          </span>
+          <span class="left-tail"></span>
+          <span class="right-tail"></span>
+        </span>
+        <p>Generated with <a href="https://pages.github.com">GitHub Pages</a> using Merlot</p>
+        <span class="octocat"></span>
+      </footer>
+
+    </div>
+  </body>
+</html>
+
+
