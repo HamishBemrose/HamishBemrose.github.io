@@ -31,14 +31,22 @@ gif:
 
 **Tech:** Made in unity using C#.
 
-**Description:** i created a basic Movement and Grapple system within unity. 
+**Description:** i created a basic 3D First-person Movement and Grapple system within unity. 
 
 gif:
 
 
 
-OpenGL DirectX 3D graphics scene
-- Cmp301 Uni Project
+## 3D scene using OpenGL
+
+**Context:** Solo University project
+
+**Tech:** Made with C++ using OpenGl
+
+**Description:** This is a basic 3D scene made in my second year of University.
+
+gif:
+
 
 
 # Contact Me
