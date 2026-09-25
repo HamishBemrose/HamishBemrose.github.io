@@ -36,9 +36,9 @@ gif:
 gif:
 
 
-```
+
 OpenGL DirectX 3D graphics scene
 - Cmp301 Uni Project
-```
+
 
 # Contact Me
