@@ -4,10 +4,11 @@
 
 ![plot](/assets/Sogmister.png)
 
-I am a gameplay proggramer and a fourth year student at Abertay university.
-Throghout my time in University.
-I have worked with a number of game engines such as: Unreal engine and Unity.
-As well as a number of programing languages such as: C++ C#  and Python. <br> <br>
+I am a Gameplay Programer and a final-year student at Abertay University.
+Throughout my time in University,
+I have gained pratical experience with a number of industry-standered game engines, such as Unreal Engine and Unity.
+I have alos developed a strong foundation in core programming languages, including C++, C# and Python. <br> <br>
+
 
 # Projects
 
