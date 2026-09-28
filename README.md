@@ -1,5 +1,7 @@
 # About Me
 
+![plot](/assets/Sogmister.png)
+
 I am a gameplay proggramer and a fourth year student at Abertay university.
 Throghout my time in University.
 I have worked with a number of game engines such as: Unreal engine and Unity.
