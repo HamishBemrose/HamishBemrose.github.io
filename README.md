@@ -46,7 +46,7 @@ gif:
 
 **Tech:** Made with C++ using OpenGl
 
-**Description:** This is a basic 3D scene made in my second year of University. This scene features a solar-system of planets and models. there is multipul uses of grphical techniques. these include: "gemometry", "hieracghiacl transfomation", "texturing", "Lighting", "deapth and transparancy" and "3D models". 
+**Description:** This is a basic 3D scene made in my second year of University. This scene features a solar system of planets and models. There are multiple uses of graphical techniques. Including: "Geometry", "Hierarchical Transformation", "Texturing", "Lighting", "Depth and Transparency" and "3D Models". 
 
 gif:
 
