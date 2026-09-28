@@ -12,9 +12,9 @@ As well as a number of programing languages such as: C++ C#  and Python.
 
 **Context:**  Group University project.
 
-**Tech:** Made in Unreal Engine using C++ and blueprints <br>
+**Tech:** Made in Unreal Engine using C++ and blueprints. With the use of perforce <br>
 
-**Description:**  Transcript.Log is an 3D escape room puzzle game with text adventures elements. I was one of two programmer from a team of eight. the idea of the game is to send write messages to a young girl to help her escape a lab. my main focus was making the AI of the young girl.  giving her a mood system and making it so she can interact with objects in the enviroment. <br>
+**Description:**  Transcript.Log is a 3D escape room puzzle game with text-adventure elements. I was one of two programmers from a team of eight. The core concept of the game involves sending written text messages to a young girl to help her escape a laboratory. My primary focus was developing the AI of the young girl. Creating a dynamic mood system, and enabling her to interact with objects in the environment. <br>
 
 
 gif:
@@ -23,18 +23,16 @@ gif:
 
 
 
-
-
 ## Unity Movement and Grapple System
 
 **Context:** Solo personal project. Work in Progress
 
-**Tech:** Made in unity using C#.
+**Tech:** Made in Unity using C#.
 
-**Description:** i created a basic 3D First-person Movement and Grapple system within unity. 
+**Description:** I created a responsive 3D First-person Movement and Grappling system within the Unity engine. driven by a State Machine, and the built-in Unity input system. the player is able to Move around and grapple and swing. It was designed around fast-paced movement and gameplay. rewarding quick thinking. <br>
+This system features  multiple actions including: "Grappling", "Swinging", "Reeling", "Sliding, " Wall Sliding", "Walljump" and "Mantle" actions <br>
 
 gif:
-
 
 
 ## 3D scene using OpenGL
@@ -43,7 +41,7 @@ gif:
 
 **Tech:** Made with C++ using OpenGl
 
-**Description:** This is a basic 3D scene made in my second year of University.
+**Description:** This is a basic 3D scene made in my second year of University. This scene features a solar-system of planets and models. there is multipul uses of grphical techniques. these include: "gemometry", "hieracghiacl transfomation", "texturing", "Lighting", "deapth and transparancy" and "3D models". 
 
 gif:
 
