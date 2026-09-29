@@ -53,3 +53,5 @@ gif:
 
 
 # Contact Me
+
+Email me at: hamish.bemrosebrown@gmail.com
